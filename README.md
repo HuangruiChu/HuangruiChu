@@ -14,7 +14,6 @@ I was an undergraduate student from Duke Kunshan University and a research assis
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![C++](https://img.shields.io/badge/-C-000?&logo=C++)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
 ![](https://komarev.com/ghpvc/?username=HuangruiChu&style=flat)
