@@ -3,7 +3,7 @@ I am a graduate student from Yale Graduate School of Art and Science currently m
 I was an undergraduate student from Duke Kunshan University and a research assistant [@SMIIP Lab](https://sites.duke.edu/dkusmiip/2019/08/10/welcome/) advised by my research mentor [Prof. Ming Li](https://scholars.duke.edu/person/MingLi). My research focuses on Computer Vision.
 
 <a href="https://github-readme-stats.vercel.app/api?username=HuangruiChu&count_private=true&show_icons=true&theme=aura_dark">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HuangruiChu&count_private=true&show_icons=true&theme=aura_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HuangruiChu&count_private=true&show_icons=true&theme=aura_dark" />
 </a>
 
 ### Skills
