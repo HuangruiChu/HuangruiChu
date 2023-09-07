@@ -1,6 +1,6 @@
 ## Homepage: [https://HuangruiChu.github.io/](https://HuangruiChu.github.io)
 I am a graduate student from Yale Graduate School of Art and Science currently majored in Biostatistics Data Science track.
-I was an undergraduate student from Duke Kunshan University and a research assistant [@SMIIP Lab](https://sites.duke.edu/dkusmiip/2019/08/10/welcome/) advised by my research mentor [Prof. Ming Li](https://scholars.duke.edu/person/MingLi). My research of Deep Learning focuses on Computer Vision and Natural Language Processing.
+I was an undergraduate student from Duke Kunshan University and a research assistant [@SMIIP Lab](https://sites.duke.edu/dkusmiip/) advised by my research mentor [Prof. Ming Li](https://scholars.duke.edu/person/MingLi). My research of Deep Learning focuses on Computer Vision and Natural Language Processing.
 
 For 2023 summer, I am glad to work for [Prof. Simon Danner](https://drexel.edu/medicine/faculty/profiles/simon-danner/) at Drexel University as graduate research assistant with the research focus on the Biological model for the spinal cord and brainstem.
 
