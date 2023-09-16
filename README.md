@@ -14,7 +14,7 @@ For 2023 summer, I am glad to work for [Prof. Simon Danner](https://drexel.edu/m
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![C++](https://img.shields.io/badge/-C-000?&logo=C++)
+![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
