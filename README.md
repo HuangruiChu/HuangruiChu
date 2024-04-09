@@ -1,4 +1,13 @@
 ## Homepage: [https://HuangruiChu.github.io/](https://HuangruiChu.github.io)
+Hi there 👋
+
+I'm Richard, a graduate student at Yale Univeristy.
+
+My interests are in Large Language Model, Computer Vision, Gen AI using machine learning.
+
+I have worked on projects at Conversation classification, Movie Recommodation, Speech Recognization.
+
+### Background
 I am a graduate student from Yale Graduate School of Art and Science currently majored in Biostatistics Data Science track.
 I was an undergraduate student from Duke Kunshan University and a research assistant [@SMIIP Lab](https://sites.duke.edu/dkusmiip/) advised by my research mentor [Prof. Ming Li](https://scholars.duke.edu/person/MingLi). My research of Deep Learning focuses on Computer Vision and Natural Language Processing.
 
