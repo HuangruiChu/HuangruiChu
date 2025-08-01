@@ -13,8 +13,8 @@ I was an undergraduate student from Duke Kunshan University and a research assis
 
 For 2023 summer, I am glad to work for [Prof. Simon Danner](https://drexel.edu/medicine/faculty/profiles/simon-danner/) at Drexel University as graduate research assistant with the research focus on the Biological model for the spinal cord and brainstem.
 
-<a href="https://github-readme-stats.vercel.app/api?username=HuangruiChu&count_private=true&show_icons=true&theme=aura_dark">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HuangruiChu&count_private=true&show_icons=true&theme=aura_dark" />
+<a href="https://github-readme-stats.vercel.app/api?username=HuangruiChu&count_private=true&show_icons=true&theme=gotham">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HuangruiChu&count_private=true&show_icons=true&theme=gotham" />
 </a>
 
 ### Skills
